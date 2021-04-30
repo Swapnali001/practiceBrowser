@@ -1,0 +1,14 @@
+body{
+    margin:0 auto;
+}
+.toolbar{
+    background-color: grey;
+    height:15vh;
+    border-radius: 0.3rem;
+    display: flex;
+    align-items: center;
+    padding-left: 5rem;
+}
+.main-container{
+    height:85vh;
+}
