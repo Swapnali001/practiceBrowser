@@ -12,3 +12,7 @@ body{
 .main-container{
     height:85vh;
 }
+.toolbar{
+    background-color: beige;
+}
+
